@@ -1,0 +1,3 @@
+[submodule "flexboxobjc_deprecated"]
+	path = flexboxobjc_deprecated
+	url = https://github.com/alexdrone/flexboxobjc_deprecated.git
